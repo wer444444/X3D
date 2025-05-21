@@ -19,7 +19,7 @@ Transform {
   children Shape {
     appearance Appearance {
       texture ImageTexture {
-        url "earth.jpg"
+        url "wario.jpg"
       }
     }
     geometry Sphere { }
